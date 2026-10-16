@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Abhishek Yadav
-** Aspring java Backend Developer||Learing java||Spring Boot||Hibernate||REST APIs||MySQL**
+** Aspring java Backend Developer||Learing java||Spring Boot||Hibernate||REST APIs||MySQL
 
 Email Me 👉 ✉️ **aky843315@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
